@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+.box{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.div-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h4,Td{
+    font-family: 'Roboto', sans-serif;
+}
